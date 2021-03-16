@@ -1,6 +1,7 @@
 .vscode/
+.mypy_cache/
 
 build/
 dist/
-src/musicautobot.egg-info/
+*.egg-info/
 
